@@ -1,0 +1,17 @@
+C:\Users\USER\Documents\Rutina_BaseDatos\Utn.API\Utn.Test\bin\Debug\net8.0\Utn.Test.deps.json
+C:\Users\USER\Documents\Rutina_BaseDatos\Utn.API\Utn.Test\bin\Debug\net8.0\Utn.Test.dll
+C:\Users\USER\Documents\Rutina_BaseDatos\Utn.API\Utn.Test\bin\Debug\net8.0\Utn.Test.pdb
+C:\Users\USER\Documents\Rutina_BaseDatos\Utn.API\Utn.Test\bin\Debug\net8.0\Utn.Api.Consumer.dll
+C:\Users\USER\Documents\Rutina_BaseDatos\Utn.API\Utn.Test\bin\Debug\net8.0\Utn.Modelos.dll
+C:\Users\USER\Documents\Rutina_BaseDatos\Utn.API\Utn.Test\bin\Debug\net8.0\Utn.Api.Consumer.pdb
+C:\Users\USER\Documents\Rutina_BaseDatos\Utn.API\Utn.Test\bin\Debug\net8.0\Utn.Modelos.pdb
+C:\Users\USER\Documents\Rutina_BaseDatos\Utn.API\Utn.Test\obj\Debug\net8.0\Utn.Test.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Rutina_BaseDatos\Utn.API\Utn.Test\obj\Debug\net8.0\Utn.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Rutina_BaseDatos\Utn.API\Utn.Test\obj\Debug\net8.0\Utn.Test.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Rutina_BaseDatos\Utn.API\Utn.Test\obj\Debug\net8.0\Utn.Test.AssemblyInfo.cs
+C:\Users\USER\Documents\Rutina_BaseDatos\Utn.API\Utn.Test\obj\Debug\net8.0\Utn.Test.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Rutina_BaseDatos\Utn.API\Utn.Test\obj\Debug\net8.0\Utn.Test.csproj.Up2Date
+C:\Users\USER\Documents\Rutina_BaseDatos\Utn.API\Utn.Test\obj\Debug\net8.0\Utn.Test.dll
+C:\Users\USER\Documents\Rutina_BaseDatos\Utn.API\Utn.Test\obj\Debug\net8.0\refint\Utn.Test.dll
+C:\Users\USER\Documents\Rutina_BaseDatos\Utn.API\Utn.Test\obj\Debug\net8.0\Utn.Test.pdb
+C:\Users\USER\Documents\Rutina_BaseDatos\Utn.API\Utn.Test\obj\Debug\net8.0\ref\Utn.Test.dll

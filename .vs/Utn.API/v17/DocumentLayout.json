@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E122B296-8A00-4BAB-985A-63D992B943C9}|Utn.Test\\Utn.Test.csproj|c:\\users\\user\\documents\\rutina_basedatos\\utn.api\\utn.test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E122B296-8A00-4BAB-985A-63D992B943C9}|Utn.Test\\Utn.Test.csproj|solutionrelative:utn.test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3AACD5-BF31-414F-B37F-79B7C5D4331F}|Utn.API\\Utn.API.csproj|c:\\users\\user\\documents\\rutina_basedatos\\utn.api\\utn.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3AACD5-BF31-414F-B37F-79B7C5D4331F}|Utn.API\\Utn.API.csproj|solutionrelative:utn.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C79030-DD2D-4647-B3DA-9B4C1CC65765}|Utn.Modelos\\Utn.Modelos.csproj|c:\\users\\user\\documents\\rutina_basedatos\\utn.api\\utn.modelos\\utn.modelos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{27C79030-DD2D-4647-B3DA-9B4C1CC65765}|Utn.Modelos\\Utn.Modelos.csproj|solutionrelative:utn.modelos\\utn.modelos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6314DDF-88E0-48BE-BD68-2CC62977F9BB}|Utn.Api.Consumer\\Utn.Api.Consumer.csproj|c:\\users\\user\\documents\\rutina_basedatos\\utn.api\\utn.api.consumer\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6314DDF-88E0-48BE-BD68-2CC62977F9BB}|Utn.Api.Consumer\\Utn.Api.Consumer.csproj|solutionrelative:utn.api.consumer\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3AACD5-BF31-414F-B37F-79B7C5D4331F}|Utn.API\\Utn.API.csproj|c:\\users\\user\\documents\\rutina_basedatos\\utn.api\\utn.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F3AACD5-BF31-414F-B37F-79B7C5D4331F}|Utn.API\\Utn.API.csproj|solutionrelative:utn.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3AACD5-BF31-414F-B37F-79B7C5D4331F}|Utn.API\\Utn.API.csproj|c:\\users\\user\\documents\\rutina_basedatos\\utn.api\\utn.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F3AACD5-BF31-414F-B37F-79B7C5D4331F}|Utn.API\\Utn.API.csproj|solutionrelative:utn.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3AACD5-BF31-414F-B37F-79B7C5D4331F}|Utn.API\\Utn.API.csproj|c:\\users\\user\\documents\\rutina_basedatos\\utn.api\\utn.api\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3AACD5-BF31-414F-B37F-79B7C5D4331F}|Utn.API\\Utn.API.csproj|solutionrelative:utn.api\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C79030-DD2D-4647-B3DA-9B4C1CC65765}|Utn.Modelos\\Utn.Modelos.csproj|c:\\users\\user\\documents\\rutina_basedatos\\utn.api\\utn.modelos\\ponente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C79030-DD2D-4647-B3DA-9B4C1CC65765}|Utn.Modelos\\Utn.Modelos.csproj|solutionrelative:utn.modelos\\ponente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C79030-DD2D-4647-B3DA-9B4C1CC65765}|Utn.Modelos\\Utn.Modelos.csproj|c:\\users\\user\\documents\\rutina_basedatos\\utn.api\\utn.modelos\\participante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C79030-DD2D-4647-B3DA-9B4C1CC65765}|Utn.Modelos\\Utn.Modelos.csproj|solutionrelative:utn.modelos\\participante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C79030-DD2D-4647-B3DA-9B4C1CC65765}|Utn.Modelos\\Utn.Modelos.csproj|c:\\users\\user\\documents\\rutina_basedatos\\utn.api\\utn.modelos\\eventoponente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C79030-DD2D-4647-B3DA-9B4C1CC65765}|Utn.Modelos\\Utn.Modelos.csproj|solutionrelative:utn.modelos\\eventoponente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C79030-DD2D-4647-B3DA-9B4C1CC65765}|Utn.Modelos\\Utn.Modelos.csproj|c:\\users\\user\\documents\\rutina_basedatos\\utn.api\\utn.modelos\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C79030-DD2D-4647-B3DA-9B4C1CC65765}|Utn.Modelos\\Utn.Modelos.csproj|solutionrelative:utn.modelos\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C79030-DD2D-4647-B3DA-9B4C1CC65765}|Utn.Modelos\\Utn.Modelos.csproj|c:\\users\\user\\documents\\rutina_basedatos\\utn.api\\utn.modelos\\certificado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C79030-DD2D-4647-B3DA-9B4C1CC65765}|Utn.Modelos\\Utn.Modelos.csproj|solutionrelative:utn.modelos\\certificado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3AACD5-BF31-414F-B37F-79B7C5D4331F}|Utn.API\\Utn.API.csproj|c:\\users\\user\\documents\\rutina_basedatos\\utn.api\\utn.api\\controllers\\certificadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3AACD5-BF31-414F-B37F-79B7C5D4331F}|Utn.API\\Utn.API.csproj|solutionrelative:utn.api\\controllers\\certificadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3AACD5-BF31-414F-B37F-79B7C5D4331F}|Utn.API\\Utn.API.csproj|c:\\users\\user\\documents\\rutina_basedatos\\utn.api\\utn.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3AACD5-BF31-414F-B37F-79B7C5D4331F}|Utn.API\\Utn.API.csproj|solutionrelative:utn.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C79030-DD2D-4647-B3DA-9B4C1CC65765}|Utn.Modelos\\Utn.Modelos.csproj|c:\\users\\user\\documents\\rutina_basedatos\\utn.api\\utn.modelos\\sesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C79030-DD2D-4647-B3DA-9B4C1CC65765}|Utn.Modelos\\Utn.Modelos.csproj|solutionrelative:utn.modelos\\sesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C79030-DD2D-4647-B3DA-9B4C1CC65765}|Utn.Modelos\\Utn.Modelos.csproj|c:\\users\\user\\documents\\rutina_basedatos\\utn.api\\utn.modelos\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C79030-DD2D-4647-B3DA-9B4C1CC65765}|Utn.Modelos\\Utn.Modelos.csproj|solutionrelative:utn.modelos\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C79030-DD2D-4647-B3DA-9B4C1CC65765}|Utn.Modelos\\Utn.Modelos.csproj|c:\\users\\user\\documents\\rutina_basedatos\\utn.api\\utn.modelos\\inscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C79030-DD2D-4647-B3DA-9B4C1CC65765}|Utn.Modelos\\Utn.Modelos.csproj|solutionrelative:utn.modelos\\inscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3AACD5-BF31-414F-B37F-79B7C5D4331F}|Utn.API\\Utn.API.csproj|c:\\users\\user\\documents\\rutina_basedatos\\utn.api\\utn.api\\migrations\\20250509154113_v0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3AACD5-BF31-414F-B37F-79B7C5D4331F}|Utn.API\\Utn.API.csproj|solutionrelative:utn.api\\migrations\\20250509154113_v0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3AACD5-BF31-414F-B37F-79B7C5D4331F}|Utn.API\\Utn.API.csproj|c:\\users\\user\\documents\\rutina_basedatos\\utn.api\\utn.api\\controllers\\sesionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3AACD5-BF31-414F-B37F-79B7C5D4331F}|Utn.API\\Utn.API.csproj|solutionrelative:utn.api\\controllers\\sesionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3AACD5-BF31-414F-B37F-79B7C5D4331F}|Utn.API\\Utn.API.csproj|c:\\users\\user\\documents\\rutina_basedatos\\utn.api\\utn.api\\controllers\\inscripcionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3AACD5-BF31-414F-B37F-79B7C5D4331F}|Utn.API\\Utn.API.csproj|solutionrelative:utn.api\\controllers\\inscripcionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3AACD5-BF31-414F-B37F-79B7C5D4331F}|Utn.API\\Utn.API.csproj|c:\\users\\user\\documents\\rutina_basedatos\\utn.api\\utn.api\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3AACD5-BF31-414F-B37F-79B7C5D4331F}|Utn.API\\Utn.API.csproj|solutionrelative:utn.api\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3AACD5-BF31-414F-B37F-79B7C5D4331F}|Utn.API\\Utn.API.csproj|c:\\users\\user\\documents\\rutina_basedatos\\utn.api\\utn.api\\controllers\\participantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3AACD5-BF31-414F-B37F-79B7C5D4331F}|Utn.API\\Utn.API.csproj|solutionrelative:utn.api\\controllers\\participantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3AACD5-BF31-414F-B37F-79B7C5D4331F}|Utn.API\\Utn.API.csproj|c:\\users\\user\\documents\\rutina_basedatos\\utn.api\\utn.api\\controllers\\pagoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3AACD5-BF31-414F-B37F-79B7C5D4331F}|Utn.API\\Utn.API.csproj|solutionrelative:utn.api\\controllers\\pagoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3AACD5-BF31-414F-B37F-79B7C5D4331F}|Utn.API\\Utn.API.csproj|c:\\users\\user\\documents\\rutina_basedatos\\utn.api\\utn.api\\controllers\\eventoponentescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3AACD5-BF31-414F-B37F-79B7C5D4331F}|Utn.API\\Utn.API.csproj|solutionrelative:utn.api\\controllers\\eventoponentescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Utn.Modelos",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.Modelos\\Utn.Modelos.csproj",
+              "RelativeDocumentMoniker": "Utn.Modelos\\Utn.Modelos.csproj",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.Modelos\\Utn.Modelos.csproj",
+              "RelativeToolTip": "Utn.Modelos\\Utn.Modelos.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-25T02:51:59.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.API\\Migrations\\AppDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Utn.API\\Migrations\\AppDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.API\\Migrations\\AppDBContextModelSnapshot.cs",
+              "RelativeToolTip": "Utn.API\\Migrations\\AppDBContextModelSnapshot.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T00:02:24.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SesionesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.API\\Controllers\\SesionesController.cs",
+              "RelativeDocumentMoniker": "Utn.API\\Controllers\\SesionesController.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.API\\Controllers\\SesionesController.cs",
+              "RelativeToolTip": "Utn.API\\Controllers\\SesionesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T21:26:34.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.API\\Program.cs",
+              "RelativeDocumentMoniker": "Utn.API\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.API\\Program.cs",
+              "RelativeToolTip": "Utn.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T20:13:28.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Utn.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.API\\appsettings.Development.json",
+              "RelativeToolTip": "Utn.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-24T19:46:58.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.API\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Utn.API\\Data\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.API\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "Utn.API\\Data\\AppDBContext.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAcwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:59:58.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.Test\\Program.cs",
+              "RelativeDocumentMoniker": "Utn.Test\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.Test\\Program.cs",
+              "RelativeToolTip": "Utn.Test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T17:33:00.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ponente.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.Modelos\\Ponente.cs",
+              "RelativeDocumentMoniker": "Utn.Modelos\\Ponente.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.Modelos\\Ponente.cs",
+              "RelativeToolTip": "Utn.Modelos\\Ponente.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T16:31:12.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Participante.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.Modelos\\Participante.cs",
+              "RelativeDocumentMoniker": "Utn.Modelos\\Participante.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.Modelos\\Participante.cs",
+              "RelativeToolTip": "Utn.Modelos\\Participante.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T16:31:06.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Inscripcion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.Modelos\\Inscripcion.cs",
+              "RelativeDocumentMoniker": "Utn.Modelos\\Inscripcion.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.Modelos\\Inscripcion.cs",
+              "RelativeToolTip": "Utn.Modelos\\Inscripcion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T16:30:51.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventoPonente.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.Modelos\\EventoPonente.cs",
+              "RelativeDocumentMoniker": "Utn.Modelos\\EventoPonente.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.Modelos\\EventoPonente.cs",
+              "RelativeToolTip": "Utn.Modelos\\EventoPonente.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T16:30:44.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Crud.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.Api.Consumer\\Crud.cs",
+              "RelativeDocumentMoniker": "Utn.Api.Consumer\\Crud.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.Api.Consumer\\Crud.cs",
+              "RelativeToolTip": "Utn.Api.Consumer\\Crud.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAAGoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T16:02:08.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250509154113_v0.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.API\\Migrations\\20250509154113_v0.cs",
+              "RelativeDocumentMoniker": "Utn.API\\Migrations\\20250509154113_v0.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.API\\Migrations\\20250509154113_v0.cs",
+              "RelativeToolTip": "Utn.API\\Migrations\\20250509154113_v0.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:41:14.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ParticipantesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.API\\Controllers\\ParticipantesController.cs",
+              "RelativeDocumentMoniker": "Utn.API\\Controllers\\ParticipantesController.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.API\\Controllers\\ParticipantesController.cs",
+              "RelativeToolTip": "Utn.API\\Controllers\\ParticipantesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:12:54.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PagosController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.API\\Controllers\\PagosController.cs",
+              "RelativeDocumentMoniker": "Utn.API\\Controllers\\PagosController.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.API\\Controllers\\PagosController.cs",
+              "RelativeToolTip": "Utn.API\\Controllers\\PagosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:12:21.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InscripcionesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.API\\Controllers\\InscripcionesController.cs",
+              "RelativeDocumentMoniker": "Utn.API\\Controllers\\InscripcionesController.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.API\\Controllers\\InscripcionesController.cs",
+              "RelativeToolTip": "Utn.API\\Controllers\\InscripcionesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:11:39.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EventoPonentesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.API\\Controllers\\EventoPonentesController.cs",
+              "RelativeDocumentMoniker": "Utn.API\\Controllers\\EventoPonentesController.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.API\\Controllers\\EventoPonentesController.cs",
+              "RelativeToolTip": "Utn.API\\Controllers\\EventoPonentesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:11:02.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EventosController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.API\\Controllers\\EventosController.cs",
+              "RelativeDocumentMoniker": "Utn.API\\Controllers\\EventosController.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.API\\Controllers\\EventosController.cs",
+              "RelativeToolTip": "Utn.API\\Controllers\\EventosController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAcwA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:10:16.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CertificadosController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.API\\Controllers\\CertificadosController.cs",
+              "RelativeDocumentMoniker": "Utn.API\\Controllers\\CertificadosController.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.API\\Controllers\\CertificadosController.cs",
+              "RelativeToolTip": "Utn.API\\Controllers\\CertificadosController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAcwFcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:09:34.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Utn.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.API\\appsettings.json",
+              "RelativeToolTip": "Utn.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-09T15:08:29.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Certificado.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.Modelos\\Certificado.cs",
+              "RelativeDocumentMoniker": "Utn.Modelos\\Certificado.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.Modelos\\Certificado.cs",
+              "RelativeToolTip": "Utn.Modelos\\Certificado.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T14:53:59.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Pago.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.Modelos\\Pago.cs",
+              "RelativeDocumentMoniker": "Utn.Modelos\\Pago.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.Modelos\\Pago.cs",
+              "RelativeToolTip": "Utn.Modelos\\Pago.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T14:53:26.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Sesion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.Modelos\\Sesion.cs",
+              "RelativeDocumentMoniker": "Utn.Modelos\\Sesion.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.Modelos\\Sesion.cs",
+              "RelativeToolTip": "Utn.Modelos\\Sesion.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T14:50:49.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.Modelos\\Evento.cs",
+              "RelativeDocumentMoniker": "Utn.Modelos\\Evento.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Rutina_BaseDatos\\Utn.API\\Utn.Modelos\\Evento.cs",
+              "RelativeToolTip": "Utn.Modelos\\Evento.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T14:50:24.509Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

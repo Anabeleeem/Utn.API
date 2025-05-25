@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\Rutina_BaseDatos\Utn.API\Utn.Modelos\bin\Debug\net8.0\Utn.Modelos.deps.json
+C:\Users\USER\Documents\Rutina_BaseDatos\Utn.API\Utn.Modelos\bin\Debug\net8.0\Utn.Modelos.dll
+C:\Users\USER\Documents\Rutina_BaseDatos\Utn.API\Utn.Modelos\bin\Debug\net8.0\Utn.Modelos.pdb
+C:\Users\USER\Documents\Rutina_BaseDatos\Utn.API\Utn.Modelos\obj\Debug\net8.0\Utn.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Rutina_BaseDatos\Utn.API\Utn.Modelos\obj\Debug\net8.0\Utn.Modelos.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Rutina_BaseDatos\Utn.API\Utn.Modelos\obj\Debug\net8.0\Utn.Modelos.AssemblyInfo.cs
+C:\Users\USER\Documents\Rutina_BaseDatos\Utn.API\Utn.Modelos\obj\Debug\net8.0\Utn.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Rutina_BaseDatos\Utn.API\Utn.Modelos\obj\Debug\net8.0\Utn.Modelos.dll
+C:\Users\USER\Documents\Rutina_BaseDatos\Utn.API\Utn.Modelos\obj\Debug\net8.0\refint\Utn.Modelos.dll
+C:\Users\USER\Documents\Rutina_BaseDatos\Utn.API\Utn.Modelos\obj\Debug\net8.0\Utn.Modelos.pdb
+C:\Users\USER\Documents\Rutina_BaseDatos\Utn.API\Utn.Modelos\obj\Debug\net8.0\ref\Utn.Modelos.dll
